@@ -6,14 +6,17 @@
   <tr>
     <td><img src='./src/LAL_SAS_P1.gif'></td>
     <td><img src='./src/LAL_SAS_V1.gif'></td>
+    <td><img src='./src/YOLO_LAL_SAS_P1.gif'></td>
   </tr>
   <tr>
     <td><img src='./src/LAL_SAS_P2.gif'></td>
     <td><img src='./src/LAL_SAS_V2.gif'></td>
+    <td><img src='./src/YOLO_LAL_SAS_P2.gif'></td>
   </tr>
   <tr>
     <td><img src='./src/LAL_SAS_P3.gif'></td>
     <td><img src='./src/LAL_SAS_V3.gif'></td>
+    <td><img src='./src/YOLO_LAL_SAS_P3.gif'></td>
   </tr>
 </table>
 
